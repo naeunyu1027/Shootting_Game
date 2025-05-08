@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ShootingGame.unity
+    guid: 698b521f4edd3fe4fb8718ece6615bb5
+  - enabled: 1
+    path: Assets/Scenes/LobyScene.unity
+    guid: ae9f2ccde1bec7d4a90d2ee3cc07fee5
+  m_configObjects: {}
